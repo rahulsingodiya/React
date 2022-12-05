@@ -1,4 +1,2 @@
 # Profile Card UI
 
-# OUTPUT
-
